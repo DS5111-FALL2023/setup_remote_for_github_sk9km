@@ -34,6 +34,9 @@ user.email=efrainolivaresuva@gmail.com
     - if you execute `git config --global --list` your creds show up in the console
     - if you execute `ssh -T git@github.com` you get a message back from github that you connected, (but they don't provide a console)
  
+ SSH Verification:
+  ![ssh verification](./ssh_verification.png)
+
 # Grading - 5 points total
 * Send a link in Canvas to your repository
 * add a screenshot **TO YOUR README.md** of an `ls` showing the files in `~/.ssh`, followed by the `git config...` and `ssh -T...` commands showing the expected input.  Look at [github docs image markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)
